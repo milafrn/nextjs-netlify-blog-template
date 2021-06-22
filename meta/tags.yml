@@ -1,4 +1,6 @@
 tags:
+  - slug: teste
+    name: teste
   - slug: document
     name: document
   - slug: mock
@@ -11,5 +13,3 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
-  - slug: teste
-    name: teste
