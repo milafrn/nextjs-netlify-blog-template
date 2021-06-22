@@ -1,4 +1,6 @@
 tags:
+  - slug: teste
+    name: teste
   - slug: document
     name: document
   - slug: mock
